@@ -13,6 +13,6 @@ Addresses multiple second playback delay introduced in windows 11
 
 
 ## Antivirus detections
-Some heuristics seem to mark this. You can reach out to AV vendor so they can fix the heuristics
+Some heuristics seem to mark this. You can reach out to AV vendor so they can fix the heuristics. Also you can whitelist this application in AV.
 
 

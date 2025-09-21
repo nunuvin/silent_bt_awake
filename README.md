@@ -4,7 +4,7 @@ Silent BT Awake is a lightweight Windows utility that keeps your computer’s Bl
 Addresses multiple second playback delay introduced in windows 11
 
 ## Quick Install
-
+0. You may need to download .NET runtime from [.NET Framework runtime](https://dotnet.microsoft.com/en-us/download/dotnet-framework)
 1. **Download the latest release or build from scratch in Visual Studio** from [GitHub Releases](https://github.com/nunuvin/silent_bt_awake/releases).
 2. **Extract the ZIP** and run `SilentBTAwake.exe`.
 3. The app will appear as an icon in your system tray and keep Bluetooth awake automatically.

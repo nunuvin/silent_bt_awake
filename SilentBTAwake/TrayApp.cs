@@ -29,7 +29,7 @@ namespace BluetoothKeepAlive
                     new MenuItem("Exit", Exit)
                 }),
                 Visible = true,
-                Text = "Bluetooth Keep-Alive"
+                Text = "SilentBTAwake"
             };
         }
 

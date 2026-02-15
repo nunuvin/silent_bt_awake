@@ -8,7 +8,9 @@ Addresses multiple second playback delay introduced in windows 11. Seems to solv
 1. go to your headphones settings and disable hands free telephony
 2. go to system sound, disable hands free microphone and speakers for your headphones.
 3. Go to windows update -> advanced -> optional updates, check there is bluetooth driver update.
-   
+
+**Try soundkeep it can also help, just put it in startup folder. **
+
 ## Quick Install
 0. You may need to download .NET runtime from [.NET Framework runtime](https://dotnet.microsoft.com/en-us/download/dotnet-framework)
 1. **Download the latest release or build from scratch in Visual Studio** from [GitHub Releases](https://github.com/nunuvin/silent_bt_awake/releases).
